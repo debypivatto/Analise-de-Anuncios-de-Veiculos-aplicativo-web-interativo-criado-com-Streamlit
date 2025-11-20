@@ -16,7 +16,7 @@ Aplicação publicada no Render
 - **Pandas** — manipulação de dados e tratamento de dados  
 - **Jupyter Notebook** — exploração inicial dos dados
 - **Streamlit** - desenvolvimento do app web
-- **Plotly Express** - — visualizações interativas
+- **Plotly Express** - visualizações interativas
 
 - **Render** — hospedagem do aplicativo
 🌐 Acesse o App
